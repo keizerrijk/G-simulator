@@ -1,4 +1,4 @@
-Second iteration of my meme generator, this time written in C++. 
+/g/ simulator, a perfect recreation. 
 
 Command that I use to compile is: g++ main.cpp -o [name here].
 
